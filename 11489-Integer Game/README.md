@@ -10,7 +10,7 @@ GAME RULE: 給定一個數N(ex:1234) 兩個人 S AND T , S先攻
 
 現在INPUT一個N 求最後贏的是S還是T
 
-<span style="color:red">n拿掉一個數必定相加是三的倍數</span>
+**n拿掉一個數必定相加是三的倍數**
 
 
 N分為兩種狀況(假設total = n每個位元的數相加):
