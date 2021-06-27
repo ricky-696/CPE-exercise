@@ -40,3 +40,5 @@ bool repeat(int x)
 }
 
 ```
+
+這樣時間複雜度就會是O(N)
