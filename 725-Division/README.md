@@ -46,3 +46,10 @@ bool repeat(int x)
 ```
 
 這樣時間複雜度就會是O(N)
+
+
+補充 這邊有大神的超簡短代碼 主要是透過set能夠自動排序與過濾重複元素的特性簡短代碼(實作是用紅黑樹)
+
+
+連結: https://blog.csdn.net/weixin_43899069/article/details/105174432
+
