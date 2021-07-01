@@ -40,7 +40,7 @@ void getprime() // prime table(0到9999999)
 }
 ```
 
-###排列組合:
+### 排列組合:
 
 ```c++
 void perm(string s1, string s2) 
